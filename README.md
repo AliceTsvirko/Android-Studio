@@ -1,1 +1,1 @@
-# Android-Studio
+# Android-Studio Ссылка на чеклист формы регистрации
