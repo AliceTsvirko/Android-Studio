@@ -1,1 +1,1 @@
-# Android-Studio Ссылка на чеклисты и баг репорты формы регистрации https://docs.google.com/spreadsheets/d/1pMa8CrhbnYpOVUsCNvlVqVbWp0Jt6cFCWal6BPSVrUQ/edit#gid=0
+# Android-Studio Ссылка на чеклист и баг репорты формы регистрации https://docs.google.com/spreadsheets/d/1pMa8CrhbnYpOVUsCNvlVqVbWp0Jt6cFCWal6BPSVrUQ/edit#gid=0
